@@ -27,7 +27,8 @@
 
 | 微調腳本 |
 | --- |
-| [archlinux-xfce-adjustment](https://github.com/samwhelp/archlinux-xfce-adjustment/tree/main/prototype/main) |
+| [Archlinux Xfce Config](https://github.com/samwhelp/archlinux-xfce-adjustment/tree/main/prototype/main/xfce-config/full/Main) |
+| [Tool Config](https://github.com/samwhelp/archlinux-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
 
