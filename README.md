@@ -9,6 +9,9 @@
 | [Archlinux 探索筆記](https://samwhelp.github.io/note-about-archlinux/) | [GitHub](https://github.com/samwhelp/note-about-archlinux) |
 
 
+> [鍵盤按鍵綁定一覽表](https://samwhelp.github.io/note-about-archlinux-xfce/read/cheatsheet/keybind.html)
+
+
 
 
 ## 主題
