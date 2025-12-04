@@ -9,9 +9,6 @@
 | [Archlinux 探索筆記](https://samwhelp.github.io/note-about-archlinux/) | [GitHub](https://github.com/samwhelp/note-about-archlinux) |
 
 
-> [鍵盤按鍵綁定一覽表](https://samwhelp.github.io/note-about-archlinux-xfce/read/cheatsheet/keybind.html)
-
-
 
 
 ## 主題
@@ -30,7 +27,7 @@
 ## 微調腳本
 
 | 微調腳本 |
-| --- |
+| ------- |
 | [Archlinux Xfce Config](https://github.com/samwhelp/archlinux-xfce-adjustment/tree/main/prototype/main/xfce-config/full/Main) |
 | [Tool Config](https://github.com/samwhelp/archlinux-adjustment/tree/main/prototype/main/tool-config/part) |
 
@@ -39,8 +36,10 @@
 
 ## 按鍵綁定
 
+> [鍵盤按鍵綁定一覽表](https://samwhelp.github.io/note-about-archlinux-xfce/read/cheatsheet/keybind.html)
+
 | 按鍵綁定 |
-| --- |
+| ------- |
 | [鍵盤按鍵綁定](https://samwhelp.github.io/note-about-archlinux-xfce/read/config/keybind.html) |
 | [滑鼠按鍵綁定](https://samwhelp.github.io/note-about-archlinux-xfce/read/config/mousebind.html) |
 
@@ -90,11 +89,15 @@
 | [Xfce 探索筆記](https://samwhelp.github.io/note-about-xfce/) | [GitHub](https://github.com/samwhelp/note-about-xfce) |
 | [Debian Xfce 探索筆記](https://samwhelp.github.io/note-about-debian-xfce/) | [GitHub](https://github.com/samwhelp/note-about-debian-xfce) |
 | [MxLinux Xfce 探索筆記](https://samwhelp.github.io/note-about-mxlinux-xfce/) | [GitHub](https://github.com/samwhelp/note-about-mxlinux-xfce) |
-| [LinuxMint Xfce 探索筆記](https://samwhelp.github.io/note-about-linuxmint-xfce/) | [GitHub](https://github.com/samwhelp/note-about-linuxmint-xfce) |
+| [Pardus Xfce 探索筆記](https://samwhelp.github.io/note-about-pardus-xfce/) | [GitHub](https://github.com/samwhelp/note-about-pardus-xfce) |
 | [Xubuntu 探索筆記](https://samwhelp.github.io/note-about-xubuntu/) | [GitHub](https://github.com/samwhelp/note-about-xubuntu) |
+| [LinuxMint Xfce 探索筆記](https://samwhelp.github.io/note-about-linuxmint-xfce/) | [GitHub](https://github.com/samwhelp/note-about-linuxmint-xfce) |
+| [Ezarcher Xfce 探索筆記](https://samwhelp.github.io/note-about-ezarcher-xfce/) | [GitHub](https://github.com/samwhelp/note-about-ezarcher-xfce) |
 | [ArcoLinux Xfce 探索筆記](https://samwhelp.github.io/note-about-arcolinux-xfce/) | [GitHub](https://github.com/samwhelp/note-about-arcolinux-xfce) |
 | [Manjaro Xfce 探索筆記](https://samwhelp.github.io/note-about-manjaro-xfce/) | [GitHub](https://github.com/samwhelp/note-about-manjaro-xfce) |
+| [Garuda Xfce 探索筆記](https://samwhelp.github.io/note-about-garuda-xfce/) | [GitHub](https://github.com/samwhelp/note-about-garuda-xfce) |
 | [Fedora Xfce 探索筆記](https://samwhelp.github.io/note-about-fedora-xfce/) | [GitHub](https://github.com/samwhelp/note-about-fedora-xfce) |
+| [Solus Xfce 探索筆記](https://samwhelp.github.io/note-about-solus-xfce/) | [GitHub](https://github.com/samwhelp/note-about-solus-xfce) |
 
 
 
